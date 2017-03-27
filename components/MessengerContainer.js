@@ -12,10 +12,10 @@ import {
   Text,
   Navigator,
 } from 'react-native';
+import { firebaseConfig } from './firebaseConfig';
 
 const GiftedMessenger = require('react-native-gifted-messenger');
 const firebase = require('firebase');
-const firebaseConfig = require('./components/firebaseConfig');
 /* const MESSAGE_REF = 'https://react-native-chat-sample.firebaseio.com/messages'; */
 
 const STATUS_BAR_HEIGHT = 0;

@@ -572,7 +572,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = Y543YJ28K3;
+						DevelopmentTeam = 2232YCCCZB;
 						ProvisioningStyle = Automatic;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -1004,7 +1004,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = Y543YJ28K3;
+				DEVELOPMENT_TEAM = 2232YCCCZB;
 				INFOPLIST_FILE = GroceryApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1013,7 +1013,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.ReactNativeFirebase.GroceryApp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.mkk.GroceryApp;
 				PRODUCT_NAME = GroceryApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1026,7 +1026,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y543YJ28K3;
+				DEVELOPMENT_TEAM = 2232YCCCZB;
 				INFOPLIST_FILE = GroceryApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1035,7 +1035,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.ReactNativeFirebase.GroceryApp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.mkk.GroceryApp;
 				PRODUCT_NAME = GroceryApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
