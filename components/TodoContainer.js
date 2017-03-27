@@ -6,13 +6,13 @@
 
 import React, { Component } from 'react';
 import ReactNative from 'react-native';
+import { firebaseConfig } from './firebaseConfig';
 
-const StatusBar = require('./components/StatusBar');
-const ActionButton = require('./components/ActionButton');
-const ListItem = require('./components/ListItem');
+const StatusBar = require('./StatusBar');
+const ActionButton = require('./ActionButton');
+const ListItem = require('./ListItem');
 const styles = require('./styles.js');
 const firebase = require('firebase');
-const firebaseConfig = require('./components/firebaseConfig');
 
 const {
   AppRegistry,
@@ -118,3 +118,5 @@ class TodoContainer extends Component {
   }
 
 }
+module.exports = TodoContainer;
+

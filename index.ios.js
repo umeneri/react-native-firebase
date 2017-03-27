@@ -6,6 +6,7 @@
 
 import React, { Component } from 'react';
 import ReactNative from 'react-native';
+import TodoContainer from './components/MessengerContainer'
 import MessengerContainer from './components/MessengerContainer'
 
 const {
@@ -18,7 +19,7 @@ const {
 class GroceryApp extends Component {
   render() {
     return (
-      <MessengerContainer/>
+      <TodoContainer/>
     );
   }
 }
